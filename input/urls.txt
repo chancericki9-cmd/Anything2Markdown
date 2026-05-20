@@ -1,0 +1,5 @@
+# Add URLs to parse, one per line
+# Examples:
+# https://example.com
+# https://www.youtube.com/watch?v=dQw4w9WgXcQ
+# https://github.com/microsoft/markitdown
